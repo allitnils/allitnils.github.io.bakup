@@ -27,7 +27,7 @@ In addition to my professional endeavors, I am pursuing a **PhD** where I explor
 - **MATLAB:** Utilized MATLAB for advanced statistical modeling and visualization, including the development of custom scripts to simulate transitional dynamics and visualize complex datasets.
 - **Apache Spark:** Implemented big data processing pipelines to manage and analyze large-scale datasets related to liminal phenomena, enhancing data throughput and computational efficiency.
 
-Committed to continuous learning, I regularly update my skills through courses and hands-on projects. I iam studying **Machine Learning** with frameworks like **TensorFlow** and **PyTorch**.
+Currently studying **TensorFlow** and **PyTorch** framewor frameworks.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ivanocampo), or reach out via [email](mailto:ivan@ivanocampo.com) to collaborate or discuss opportunities in technology and research.
 
