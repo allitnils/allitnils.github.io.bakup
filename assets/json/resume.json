@@ -1,38 +1,58 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ivan Ocampo",
+    "label": "Technical leader.",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ivan@ivanocampo.com",
+    "phone": "(04) 57042697",
+    "url": "ivanocampo.com",
+    "summary": "Strategic IT leader and technical architect, focused data science and driving innovation, aligning technology with business goals, and delivering scalable solutions.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Melbourne",
+      "countryCode": "Australia",
+      "region": "Victoria"
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Accent Group",
+      "position": "Senior Strategic Architect - Cloud and Infrastructure",
+      "url": "https://accentgr.com.au",
+      "startDate": "2022-07-01",
+      "endDate": "current",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "Peter MacCallum Cancer Centre",
+      "position": "Senior Solutions Architect",
+      "url": "",
+      "startDate": "2022-01-28",
+      "endDate": "2022-06-15",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "Australian Clinical Labs",
+      "position": "ICT, Infrastructure and Client Services Manager",
+      "url": "https://clinicallabs.com.au",
+      "startDate": "2018-02-20",
+      "endDate": "2022-01-25",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "Australian National University",
+      "position": "Manager, Information and Communication Technology",
+      "url": "https://csrm.cass.anu.edu.au/",
+      "startDate": "2010-05-01",
+      "endDate": "2018-02-10",
+      "summary": "",
+      "highlights": [""]
     }
-  ],
+],
   "volunteer": [
     {
       "organization": "People's Climate March",
@@ -47,15 +67,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Australian Institute of Business",
+      "location": "",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [
@@ -151,13 +171,13 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Spanish",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
