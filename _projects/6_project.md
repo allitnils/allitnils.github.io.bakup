@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PowerPlanR
+title: 6 project
 description: a project with no image
 img:
 importance: 1
